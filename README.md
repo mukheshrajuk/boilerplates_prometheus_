@@ -23,3 +23,6 @@ I created them as free resources to be extended by you according to your specifi
 [Terraform](https://github.com/xcad2k/boilerplates/tree/main/terraform) - Infrastructure as code software to plan, deploy and manage infrastructure.
  
 [Vagrant](https://github.com/xcad2k/boilerplates/tree/main/vagrant) - Automate development environments, packages, operating system configuration, users, and more.
+
+## find the Youtube link for this repo owner video guide 
+[youtube link](https://www.youtube.com/watch?v=9TJx7QTrTyo) - video of guidence for this repo on prometheus server monitiring.
